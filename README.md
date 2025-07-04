@@ -18,3 +18,4 @@ During my internship at CODTECH, I successfully completed Task 2, which involved
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/acc21fe4-09b4-4b03-b520-91f19b4c7c9f)
+
